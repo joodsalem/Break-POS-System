@@ -43,22 +43,18 @@
 
 ## Screenshots
 
-<p align="center">
-  <img width="960" alt="Cashier POS View" src="https://github.com/user-attachments/assets/81bc3280-1b66-4aef-97e1-5bff68eed566" />
-</p>
+<img width="960" height="431" alt="2" src="https://github.com/user-attachments/assets/dbff4e7d-5cb0-4aa1-8abf-6c57d8c8617e" />
 
-<p align="center">
-  <img width="960" alt="Owner Dashboard Analytics" src="https://github.com/user-attachments/assets/1d6b876c-c54b-4de9-88de-0b90b4bfff37" />
-</p>
+<img width="237" height="404" alt="4" src="https://github.com/user-attachments/assets/cef29bbe-0a2a-4d8d-954a-5d78067114f9" />
 
-<p align="center">
-  <img width="960" alt="Menu and Inventory Management" src="https://github.com/user-attachments/assets/991ea692-1b66-4de9-88de-0b90b4bfff37" />
-</p>
+<img width="960" height="438" alt="11" src="https://github.com/user-attachments/assets/cb8d1ad2-6148-4d4c-a510-40ebddae64de" />
+<img width="960" height="423" alt="22" src="https://github.com/user-attachments/assets/44bdbb92-d6ee-497d-b917-e355eb1b4893" />
 
-<p align="center">
-  <img width="960" alt="System Settings and Reports" src="https://github.com/user-attachments/assets/d341c31c-e0ef-4e2f-88de-0b90b4bfff37" />
-</p>
+<img width="960" height="437" alt="33" src="https://github.com/user-attachments/assets/a1cdcf7c-1dba-4da4-83a3-76c83448e496" />
 
-<p align="center">
-  <img width="280" alt="Mobile & Receipt View" src="https://github.com/user-attachments/assets/55187977-d20e-4181-9b36-b410a7c25523" />
-</p>
+<img width="960" height="433" alt="77" src="https://github.com/user-attachments/assets/760cf28f-d089-4cf1-a4be-2b3a41a38f45" />
+
+
+
+
+
