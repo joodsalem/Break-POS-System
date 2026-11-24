@@ -43,7 +43,8 @@
 
 ## Screenshots
 
-<img width="960" height="431" alt="2" src="https://github.com/user-attachments/assets/dbff4e7d-5cb0-4aa1-8abf-6c57d8c8617e" />
+<img width="960" height="540" alt="جديد" src="https://github.com/user-attachments/assets/44bae93a-b44d-413c-a6f0-a870f794f355" />
+
 
 <img width="237" height="404" alt="4" src="https://github.com/user-attachments/assets/cef29bbe-0a2a-4d8d-954a-5d78067114f9" />
 
@@ -54,6 +55,7 @@
 
 <img width="960" height="433" alt="77" src="https://github.com/user-attachments/assets/760cf28f-d089-4cf1-a4be-2b3a41a38f45" />
 
+<img width="960" height="540" alt="فواتير" src="https://github.com/user-attachments/assets/d8b1973d-627c-455f-9496-8f0cbf016fc9" />
 
 
 
